@@ -1,4 +1,5 @@
 # IA Comunidade PRO
+Pagina de Checkout: https://pay.hotmart.com/X95070272L?checkoutMode=10
 
 ### 🚀 Missão
 
