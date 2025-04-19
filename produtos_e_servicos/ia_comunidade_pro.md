@@ -28,7 +28,7 @@ A IA Comunidade Pro é dividida em módulos que cobrem desde conceitos básicos 
 * **Módulo 06** é focado em Engenharia de prompt avançado, abordando conceitos como tecnicas de prompt e fluxos complexos de trabalho
 * **Módulo 07** Apresentação do nosso primeiro projeto completo, um time de vendas com Gestor Comercial, Assistente Comercial, e Vendedores.
 * **Módulo 08** Configurando o ambiente local para desenvolvimento, API Key dos serviços como OpenAI, GroqCloud, Configuração do Docker com, N8N, LangFlow e demais serviços basicos.
-* **Módulo 09** Criamos nosso primeiro projeto completo apresentado no **\<u>Módulo 07\</u>**
+* **Módulo 09** Criamos nosso primeiro projeto completo apresentado no **\<u>Módulo 07\</u>** usando LangFlow, N8N, Baserow, Agent Memory e outras soluções LowCode.
 * **Módulo 10** Integrações com CRMs (Perfex CRM, RD Station CRM, Bitrix24, SalesForce)
 * **Módulo 11** Integrações com Meta API (WhatsApp, Messenger, Instagram).
 * **Módulo 12** Integrações com API Email Marketing
@@ -52,9 +52,9 @@ A IA Comunidade Pro é dividida em módulos que cobrem desde conceitos básicos 
     5. **1 Atendimento**
     Conforme crescer, adicione analistas de dados, gerentes de operações e especialistas em outras plataformas (TikTok, LinkedIn Ads).
 * **Módulo 16 **Multi Agents e Fluxos Avançados, Construir uma orquestração de agentes que façam diferentes tarefas (vendas, suporte, cobrança, marketing). Multiagentes, automação de marketing, e integrações corporativas.
-  * Conceitos de agent frameworks (LangChain Agents, Auto-GPT, etc.).
+  * Conceitos de agent frameworks (LangChain Agents, LangFlow,N8N, etc.).
   * Criação de fluxos que direcionem perguntas a subagentes diferentes
-  * Integração com CRMs (p. ex. HubSpot, Pipedrive) e automação de marketing (MailChimp, RD Station)
+  * Integração com CRMs (p. ex. HubSpot, Pipedrive, Perfex CRM, RD Station) e automação de marketing (MailChimp, RD Station)
 * **Módulo 17** RAG, CAG e Bases de Conhecimento, Criar diversas bases de conhecimento e Agents que consultam documentos internos, PDFs, bases de FAQ
   * Indexação e embedding (Pinecone, Milvus, PostgreSQL com pgvector, Baserow, Redis, entre outros).
 * **Módulo 18** Deploy e Infraestrutura Avançada colocar os projetos em produção e lidar com performance, escalabilidade, segurança.
