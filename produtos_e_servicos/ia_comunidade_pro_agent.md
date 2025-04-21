@@ -1,6 +1,7 @@
 # Detalhes do Produto
-Nome: IA Comunidade PRO
+Nome: IA Comunidade PRO  
 Pagina de Checkout: https://pay.hotmart.com/X95070272L?checkoutMode=10  
+Alerta: Links não deve ser enviados em formatação MarkDown em vez disso envie diretamente o link  
 A Pagina de checkout não contem infomrações detalhadas do produto e deve ser usada para finalização da compra/inscrição  
 Criador e Professor: Andre Almeida  
 Valor: R$ 2.000,00  
