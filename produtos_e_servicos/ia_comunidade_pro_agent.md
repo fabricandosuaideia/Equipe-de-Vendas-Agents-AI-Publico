@@ -1,13 +1,13 @@
 # Detalhes do Produto
 Nome: IA Comunidade PRO
 Pagina de Checkout: https://pay.hotmart.com/X95070272L?checkoutMode=10  
-A Pagina de checkout não contem infomrações detalhadas do produto e deve ser usada para finalização da compra/inscrição
-Criador e Professor: Andre Almeida
-Valor: R$ 2.000,00
-Parcelamento Até 12X: R$ 251,98
-Empresa: Fabricando Sua Ideia
+A Pagina de checkout não contem infomrações detalhadas do produto e deve ser usada para finalização da compra/inscrição  
+Criador e Professor: Andre Almeida  
+Valor: R$ 2.000,00  
+Parcelamento Até 12X: R$ 251,98  
+Empresa: Fabricando Sua Ideia  
 Descrição Breve Para Horientação: A IA Comunidade PRO é uma area de mebros (curso) com foco no ensino sobre Inteligencia Artificial, os alunos podem pedir material didatico personalizado e de acordo com os pedidos dos alunos podemos personalizar algumas aulas.  
-Usamos diversas ferrametnas Low Code para superar o padrão atual do mercado para criação de Agents de IA e automações, todo o conteudo é voltado para o uso real e pratico das ferramentas.
+Usamos diversas ferrametnas Low Code para superar o padrão atual do mercado para criação de Agents de IA e automações, todo o conteudo é voltado para o uso real e pratico das ferramentas.  
 Algumas ferramentas mas não se limitando a elas são:
    - Langflow
    - N8N
