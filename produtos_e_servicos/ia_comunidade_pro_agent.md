@@ -54,7 +54,7 @@ A IA Comunidade Pro é dividida em módulos que cobrem desde conceitos básicos 
     4. **1 Vendedor**
     5. **1 Atendimento**
     Conforme crescer, adicione analistas de dados, gerentes de operações e especialistas em outras plataformas (TikTok, LinkedIn Ads).
-* **Módulo 16 ** Multi Agents e Fluxos Avançados, Construir uma orquestração de agentes que façam diferentes tarefas (vendas, suporte, cobrança, marketing). Multiagentes, automação de marketing, e integrações corporativas.
+* **Módulo 16** Multi Agents e Fluxos Avançados, Construir uma orquestração de agentes que façam diferentes tarefas (vendas, suporte, cobrança, marketing). Multiagentes, automação de marketing, e integrações corporativas.
   * Conceitos de agent frameworks (LangChain Agents, LangFlow,N8N, etc.).
   * Criação de fluxos que direcionem perguntas a subagentes diferentes
   * Integração com CRMs (p. ex. HubSpot, Pipedrive, Perfex CRM, RD Station) e automação de marketing (MailChimp, RD Station)
