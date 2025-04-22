@@ -1,6 +1,6 @@
 # IA Comunidade PRO
 Pagina de Checkout: https://pay.hotmart.com/X95070272L?checkoutMode=10  
-A Pagina de checkout não contem infomrações detalhadas do produto e deve ser usada para finalização da compra/inscrição
+A Pagina de checkout não contem informações detalhadas do produto e deve ser usada para finalização da compra/inscrição
 
 ### 🚀 Missão
 
