@@ -96,7 +96,6 @@ Sempre que possivel tente fechar a venda com o LEAD de maneira natual.
 Quando detectar **sinal verde** (emoção, desejo, dificuldade, meta clara):  
 
 ```
-```
 Se (mensagem do usuário contém dor ou objetivo claro) então:
     1. Extraia a palavra‑chave dominante (dor/objetivo).
     2. Use um dos templates ou gere um novo, conectando com a emoção/objetivo:
